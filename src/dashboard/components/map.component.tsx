@@ -1,4 +1,3 @@
-// MapChart.tsx
 import React from 'react'
 import {
 	ComposableMap,
